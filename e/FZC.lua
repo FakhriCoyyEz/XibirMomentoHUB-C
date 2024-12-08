@@ -99,8 +99,7 @@ function AllowRunServiceBind.OnInvoke(args)
     local CoreGui = game:GetService("StarterGui")
     CoreGui:SetCore("SendNotification", {
         Title = "Chest Farm",
-        Text = "XibirMomentoz Hub",
-        Text = "https://www.instagram.com/fakhricoyy/profilecard/?igsh=NjJ3N2ZlNmRtMDgw"
+        Text = "XibirMomentoz HUB",
         Icon = "rbxthumb://type=Asset&id=137118442267379&w=150&h=150",
         Duration = math.huge,
         Callback = AllowRunServiceBind,
@@ -126,7 +125,6 @@ local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
     Title = "Chest Farm",
     Text = "XibirMomentoz HUB",
-    Text = "https://www.instagram.com/fakhricoyy/profilecard/?igsh=NjJ3N2ZlNmRtMDgw"
     Icon = "rbxthumb://type=Asset&id=137118442267379&w=150&h=150",
     Duration = math.huge,
     Callback = AllowRunServiceBind,
