@@ -1,1 +1,8 @@
-gugu
+local SCRIPT_TO_OBFUSCATE = [[
+print(" USER_NAMend
+end
+end
+end
+end
+
+Obfuscate()
